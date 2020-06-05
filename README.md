@@ -4,7 +4,7 @@ This is a super simple python project layout
 
 # Requirements
 
-- (poetry)[https://python-poetry.org/]
+- [poetry](https://python-poetry.org/)
 
 # Setup
 
