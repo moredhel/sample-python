@@ -13,4 +13,6 @@ This is a super simple python project layout
 
 # Testing
 
-Pylint: `poetry run pylint 
+Pylint: `poetry run pylint pkg/`
+
+Test: `poetry run python -m unittest`
